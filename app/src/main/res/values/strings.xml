@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">eletriccarapp</string>
+    <string name="eletric_car">Eletric Car</string>
+    <string name="carros">Carros</string>
+    <string name="favortitos">Favortitos</string>
+    <string name="preco">Preço</string>
+    <string name="bateria">Bateria</string>
+    <string name="Potencia">Potencia</string>
+    <string name="recarga">Recarga</string>
+</resources>
